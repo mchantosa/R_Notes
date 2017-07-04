@@ -1,2 +1,2 @@
-# R_Notes
+# R Notes
 R notes and examples
