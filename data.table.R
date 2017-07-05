@@ -13,7 +13,6 @@
 
 #Set environment
 library(data.table)
-set.seed(1)
 x0 <- rnorm(9)
 y0 <- rep(c("a", "b", "c"),each = 3)
 z0 <- rnorm(9)
