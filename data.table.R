@@ -1,4 +1,5 @@
-#data.table()
+#These are notes and examples I made for use of data.table()
+
 #  - data.table()
 #  - tables()
 #  - Subsetting rows of a data table
